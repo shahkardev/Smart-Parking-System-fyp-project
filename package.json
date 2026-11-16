@@ -1,0 +1,15 @@
+{
+  "name": "university-parking",
+  "version": "2.0.0",
+  "description": "University Parking System — backend with MySQL (XAMPP) database, authentication, and static frontend serving.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.11.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
